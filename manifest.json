@@ -1,0 +1,14 @@
+{
+  "id": "bettersurf_builtin",
+  "version": "1.0.0",
+  "directory": "lib/sw/repo",
+  "index": {
+    "fb_hide_chats": {
+      "name": "Hide chat popups",
+      "author": "chaueq",
+      "version": "1.0.0",
+      "enabled": false,
+      "appliesTo": ["^facebook.com"]
+    }
+  }
+}
